@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JavaNextStep_WebServer_Servlet&apos; to &apos;WebServer_Servlet&apos;" description="Rename resource &apos;JavaNextStep_WebServer_Servlet&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/JavaNextStep_WebServer_Servlet" name="WebServer_Servlet" stamp="1612012813901" updateReferences="true"/>
+</session>

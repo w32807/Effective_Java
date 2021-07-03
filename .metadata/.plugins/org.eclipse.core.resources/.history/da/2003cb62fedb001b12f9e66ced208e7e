@@ -1,0 +1,9 @@
+package enumWithAnnotation.item34;
+
+enum PayType{
+	ttt(TEST)
+	
+	enum test{
+		TEST
+	}
+}

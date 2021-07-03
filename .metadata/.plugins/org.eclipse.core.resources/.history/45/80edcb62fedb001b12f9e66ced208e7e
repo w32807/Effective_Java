@@ -1,0 +1,10 @@
+package enumWithAnnotation.item34;
+
+enum PayType{
+	WEEKDAY();
+	
+	enum test{
+		TEST;
+	}
+	
+}

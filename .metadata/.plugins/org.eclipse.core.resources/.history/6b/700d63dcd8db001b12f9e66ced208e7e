@@ -1,0 +1,21 @@
+package enumWithAnnotation.item34;
+
+public enum PayrollDay {
+	MONDAY(WEEKDAY),
+	TUESDAY(WEEKDAY),
+	WEDNESDAY(WEEKDAY),
+	THURSDAY(WEEKDAY),
+	FRIDAY(WEEKDAY),
+	SATURDAY(WEEKEND),
+	SUNDAY(WEEKEND);
+	
+	private final PayType payType;
+	
+	PayrollDay(PayType payType) {this.payType = payType;}
+	
+	int pay(int minutesWorked, int payRate) {
+		return payType.pay(minutesWorked, payRate);
+	}
+	
+	
+}

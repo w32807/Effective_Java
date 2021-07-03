@@ -1,0 +1,7 @@
+package enumWithAnnotation.item34;
+
+public class WeightTable {
+	public static void main(String[] args) {
+		
+	}
+}
