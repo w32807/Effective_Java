@@ -1,5 +1,0 @@
-package enumWithAnnotation.item34;
-
-public enum PayrollDay {
-
-}

@@ -1,5 +1,0 @@
-package enumWithAnnotation.item38;
-
-public interface Operation {
-
-}

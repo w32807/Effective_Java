@@ -1,9 +1,0 @@
-package enumWithAnnotation.item34;
-
-public enum Orange {
-	NAVEL(0),
-	TEMPLE(1),
-	BLOOD(2);
-	
-	private Orange(int num) {}
-}
