@@ -1,0 +1,9 @@
+package enumWithAnnotation.item37;
+
+public class Plant {
+	enum lifeCycle{ANNUAL, PERENNIAL, BIENNIAL}
+	
+	final String name;
+	final LifeCycle lifeCycle;
+	
+}
